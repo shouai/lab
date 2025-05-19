@@ -41,26 +41,26 @@ interests:
 education:
   - area: 博士学位 信号与信息处理
     institution: 上海交通大学
-    date_start: 2009-09
-    date_end: 2015-06
+    date_start: 2009-09-01
+    date_end: 2015-06-30
     summary: |
       博士论文《极化SAR图像边缘与区域信息提取方法研究》。答辩委员会成员包括普渡大学的单杰教授、华东理工大学的林家骏教授、上海交通大学的郁文贤教授、同济大学的童小华教授和上海交通大学的王军锋教授。
   - area: 访问博士生
     institution: 法国巴黎高科电信学院
-    date_start: 2012
-    date_end: 2013
+    date_start: 2012-09-01
+    date_end: 2013-06-30
     summary: |
       导师：Florence Tupin
   - area: 硕士学位 信号与信息处理
     institution: 上海交通大学
-    date_start: 2007-09
-    date_end: 2009-06
+    date_start: 2007-09-01
+    date_end: 2009-06-30
     summary: |
       导师：刘兴钊
   - area: 学士学位 电子工程系
     institution: 上海交通大学
-    date_start: 2003-09
-    date_end: 2007-06
+    date_start: 2003-09-01
+    date_end: 2007-06-30
     summary: |
       直升硕博
 
