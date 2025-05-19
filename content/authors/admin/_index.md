@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 柳彬
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Liu Bin
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Bin
+last_name: Liu
 
 # Status emoji
 status:
@@ -20,167 +20,74 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: 博士，副教授，硕士生导师（海洋技术专业）
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: 上海海洋大学
+    url: https://www.shou.edu.cn/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:bliu@shou.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 人工智能海洋学
+  - 遥感图像智能信息提取
+  - 深度学习
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 博士学位 信号与信息处理
+    institution: 上海交通大学
+    date_start: 2009-09
+    date_end: 2015-06
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      博士论文《极化SAR图像边缘与区域信息提取方法研究》。答辩委员会成员包括普渡大学的单杰教授、华东理工大学的林家骏教授、上海交通大学的郁文贤教授、同济大学的童小华教授和上海交通大学的王军锋教授。
+  - area: 访问博士生
+    institution: 法国巴黎高科电信学院
+    date_start: 2012
+    date_end: 2013
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      导师：Florence Tupin
+  - area: 硕士学位 信号与信息处理
+    institution: 上海交通大学
+    date_start: 2007-09
+    date_end: 2009-06
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      导师：刘兴钊
+  - area: 学士学位 电子工程系
+    institution: 上海交通大学
+    date_start: 2003-09
+    date_end: 2007-06
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      直升硕博
 
 languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: 卫星海洋环境动力学国家重点实验室青年访问学者
+    date: '2020-2021, 2022-2023'
+    awarder: 卫星海洋环境动力学国家重点实验室
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      作为青年访问学者参与卫星海洋环境动力学研究，深入研究了海洋遥感和深度学习方法在海洋环境监测中的应用。
+  - title: 国家自然科学基金青年基金
+    date: '2021-01-01'
+    awarder: 国家自然科学基金
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      项目名称：基于无监督深度学习的全极化SAR海岸带复杂环境水淹区域识别。项目资金：24万元，研究期：2021.1 - 2023.12。
+  - title: 《人工智能海洋学》专著章节主笔
+    date: '2023-02-01'
+    awarder: Springer Nature
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      主笔撰写了《人工智能海洋学》专著中的章节，章节内容涉及人工智能技术在海洋科学中的应用，特别是遥感技术和深度学习的结合。
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+柳彬，上海海洋大学副教授，硕士生导师，研究方向涵盖人工智能海洋学、遥感图像智能信息提取以及深度学习等领域。他的研究团队专注于基于深度学习的海洋遥感图像分析，致力于海岸带水淹监测与预警、渔业资源预测及渔汛预报等应用。柳彬教授领导的团队还开发了基于国产自主边缘计算芯片的人工智能模型移植和推理优化技术，为海洋科学研究带来了新的突破。曾在《National Science Review》、《Science Advances》等高水平国际期刊上发表过多篇论文，并获得多个科研奖项。柳彬教授还积极参与学术交流，担任MDPI期刊《Remote Sensing》和《Fishes》人工智能海洋学与渔业学专刊的客座编辑。
