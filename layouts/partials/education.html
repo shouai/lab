@@ -1,0 +1,16 @@
+{{ range .Params.education }}
+  <div class="education-item">
+    <h3>{{ .area }}</h3>
+    <p>{{ .institution }}</p>
+    {{ $startDate := .date_start | default "2000-01" | time }}
+    {{ $endDate := .date_end | default "2000-01" | time }}
+
+    <!-- 输出为 YYYY-MM 格式 -->
+    <p>开始日期: {{ $startDate.Format "2006-01" }}</p>
+    <p>结束日期: {{ $endDate.Format "2006-01" }}</p>
+
+    <!-- 如果只需要年份 -->
+    <p>开始年份: {{ $startDate.Format "2006" }}</p>
+    <p>结束年份: {{ $endDate.Format "2006" }}</p>
+  </div>
+{{ end }}
