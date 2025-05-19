@@ -1,1 +1,12 @@
-{{ partial "education.html" . }}
+{{ define "main" }}
+  <!-- 渲染页面标题 -->
+  <h1>{{ .Title }}</h1>
+  
+  <!-- 渲染教育背景 -->
+  <div class="education-section">
+    {{ partial "education.html" . }}
+  </div>
+
+  <!-- 渲染其他内容 -->
+  <div>{{ .Content }}</div>
+{{ end }}
