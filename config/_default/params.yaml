@@ -49,8 +49,8 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2006-01'  # 修改为 yyyy-mm 格式
+  time_format: '3:04 PM'  # 保持时间格式不变
 
 # Site features
 features:
