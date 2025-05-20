@@ -12,7 +12,7 @@ baseURL: 'https://github.com/shouai/lab/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh
+defaultContentLanguage: en
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: true
 removePathAccents: true
