@@ -12,8 +12,8 @@ baseURL: 'https://github.com/shouai/lab/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
+defaultContentLanguage: zh  # 设置为中文
+hasCJKLanguage: true  # 启用中文支持
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
