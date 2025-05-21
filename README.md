@@ -1,5 +1,5 @@
-# [上海海洋大学大学-柳彬-实验室](https://github.com/HugoBlox/theme-academic-cv)
+# [上海海洋大学大学-柳彬-实验室](https://shouai.github.io/lab/)
 
-[![Screenshot](.github/preview.webp)](https://shouai.github.io/lab/)
+[![Screenshot](.github/preview.png)](https://shouai.github.io/lab/)
 
 
