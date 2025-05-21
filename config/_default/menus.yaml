@@ -12,15 +12,15 @@ main:
     weight: 11
   - name: 新闻
     url: /#news
-    weight: 13
+    weight: 15
   - name: 经验
     url: experience/
     weight: 20
   - name: 项目
     url: projects/
-    weight: 30
+    weight: 25
   - name: 教学
     url: teaching/
-    weight: 40
+    weight: 30
 
 
