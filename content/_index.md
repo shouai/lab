@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/学院网站简历及海洋技术硕导简历-柳彬.pdf
     design:
       css_class: dark
       background:
