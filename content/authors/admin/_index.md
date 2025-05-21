@@ -70,7 +70,8 @@ awards:
     summary: |
       在National Science Review、Science Advances、IEEE TGRS、JGR: Oceans、CJFAS等国际高水平SCI期刊上合计发表论文21篇（一作6篇、通信作者9篇），出版中文专著1本、中文专著章节1章、英文专著章节3章。论文合计被引超1700次，其中3篇被引在300次以上。
   - title: 卫星海洋环境动力学国家重点实验室青年访问海星学者
-    date: 2020-2021，2022-2023
+    date: 2020-2021
+    date2: 2022-2023
     summary: |
       两期获聘卫星海洋环境动力学国家重点实验室青年访问海星学者（2020-2021，2022-2023）。
   - title: 期刊编辑
