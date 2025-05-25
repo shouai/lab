@@ -8,7 +8,7 @@ sections:
     content:
       title: 我们的团队
       text: 欢迎来到我们的团队页面！这里展示了团队成员的介绍和我们的工作成果。
-  
+
   - block: collection
     content:
       title: 教师团队
@@ -19,7 +19,8 @@ sections:
       view: article-grid
       fill_image: true
       columns: 3
-      spacing: "2rem"
+      spacing:
+        padding: ["2rem", "2rem", "2rem", "2rem"]
 
   - block: collection
     content:
@@ -31,7 +32,8 @@ sections:
       view: article-grid
       fill_image: true
       columns: 3
-      spacing: "2rem"
+      spacing:
+        padding: ["2rem", "2rem", "2rem", "2rem"]
 
   - block: collection
     content:
@@ -43,5 +45,6 @@ sections:
       view: article-grid
       fill_image: false
       columns: 1
-      spacing: "2rem"
+      spacing:
+        padding: ["2rem", "2rem", "2rem", "2rem"]
 ---
