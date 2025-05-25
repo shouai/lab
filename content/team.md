@@ -6,8 +6,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: 我们的团队
-      text: 欢迎来到我们的团队页面！这里展示了团队成员的介绍和我们的工作成果。
+      title: lab团队
 
   - block: collection
     content:
