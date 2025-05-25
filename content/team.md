@@ -2,7 +2,7 @@
 title: "团队"
 date: 2024-05-19
 type: landing
-
+---
 
 # 我们的团队
 
@@ -52,5 +52,3 @@ type: landing
     fill_image: false  # 不显示图片
     columns: 1  # 以单列展示
     spacing: '2rem'  # 调整内容之间的间距
-
----
