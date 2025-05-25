@@ -20,7 +20,7 @@ main:
     url: projects/
     weight: 25
   - name: 演讲
-    url: teaching/
+    url: talks/
     weight: 30
     name: 团队
     url: team/

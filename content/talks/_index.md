@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Talks
+summary: My talks
 type: landing
 
 cascade:
@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: talks
     content:
-      title: Teaching
+      title: Talks
       filters:
         folders:
-          - teaching
+          - talks
     design:
       view: article-grid
       columns: 2
