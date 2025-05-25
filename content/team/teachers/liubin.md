@@ -1,6 +1,7 @@
 ---
 title: "柳彬"
 role: 教授
+type: person
 date: 2024-05-20
 image:
   filename: "uploads/1.jpg"

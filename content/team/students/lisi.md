@@ -1,6 +1,7 @@
 ---
 title: "李四"
 role: 硕士研究生（2023级）
+type: person
 date: 2024-05-20
 image:
   filename: "uploads/1.jpg"
