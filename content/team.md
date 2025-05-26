@@ -1,8 +1,12 @@
 ---
-title: "团队"
+title: '团队'
 date: 2024-05-19
 type: landing
 
+design:
+  # Section spacing
+  spacing: '5rem'
+  
 sections:
   - block: markdown
     content:
