@@ -18,10 +18,10 @@ sections:
       title: 教师团队
       filters:
         folders:
-          - team/teachers
+          - team
     design:
       view: article-grid
-      columns: 2
+      columns: 3
 
   - block: collection
     id: students
@@ -29,10 +29,10 @@ sections:
       title: 学生团队
       filters:
         folders:
-          - team/students
+          - team
     design:
       view: article-grid
-      columns: 1
+      columns: 4
 
   - block: collection
     id: graduates
@@ -40,7 +40,7 @@ sections:
       title: 毕业学生
       filters:
         folders:
-          - team/graduates
+          - team
     design:
       view: article-grid
       columns: 1
