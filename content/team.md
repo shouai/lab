@@ -21,7 +21,7 @@ sections:
     design:
       view: article-grid
       fill_image: true
-      columns: 3
+      columns: 2
       spacing:
         padding: ["2rem", "2rem", "2rem", "2rem"]
 
@@ -34,7 +34,7 @@ sections:
     design:
       view: article-grid
       fill_image: true
-      columns: 3
+      columns: 1
       spacing:
         padding: ["2rem", "2rem", "2rem", "2rem"]
 
