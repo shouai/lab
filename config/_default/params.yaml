@@ -35,8 +35,9 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-    image: icon.png
     text: "LAB"
+    image: icon.png
+    
 
 
 # Site footer
