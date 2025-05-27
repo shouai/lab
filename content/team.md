@@ -8,39 +8,66 @@ design:
   spacing: '5rem'
   
 sections:
-
-  - block: collection
-    id: teachers
+  - block: markdown
     content:
-      title: 学生团队
-      filters:
-        folders:
-          - teachers
-    design:
-      view: article-grid
-      fill_image: true
-      columns: 4
-      spacing:
-        padding: ["2rem", "2rem", "2rem", "2rem"]
+    title: 教师团队
+    text: |
+      ## 王五
+      ![王五的照片](/images/ 1.jpg)
+      **毕业年份**: 2022  
+      **职位**: 毕业后就职于自然资源部第三海洋研究所，主要从事遥感数据处理工作。  
+      王五在实验室期间参与了多个科研项目，尤其是在 SAR 图像分类与变化检测方向积累了丰富经验。
 
-  - block: collection
-    id: students
-    content:
-      title: 学生团队
-      filters:
-        folders:
-          - students
+      ## 李四
+      ![李四的照片](/images/ 1.jpg)
+      **毕业年份**: 2022  
+      **职位**: 毕业后进入某科技公司，从事人工智能相关工作。  
+      李四曾获优秀研究生奖学金，并参与多个项目的研发工作。
+
+      ## 张三
+      ![张三的照片](/images/ 1.jpg)
+      **毕业年份**: 2022  
+      **职位**: 毕业后进入高校从事教学工作。  
+      张三专注于人工智能与机器学习领域，并致力于培养下一代AI人才。
+
     design:
-      view: article-grid
-      fill_image: true
-      columns: 4
-      spacing:
-        padding: ["2rem", "2rem", "2rem", "2rem"]
+    view: article-grid  # 使用网格布局
+    columns: 3          # 每行显示3个成员
+    spacing:
+      padding: ["2rem", "2rem", "2rem", "2rem"]
+
+  - block: markdown
+    content:
+    title: 学生团队
+    text: |
+      ## 王五
+      ![王五的照片](/images/ 1.jpg)
+      **毕业年份**: 2022  
+      **职位**: 毕业后就职于自然资源部第三海洋研究所，主要从事遥感数据处理工作。  
+      王五在实验室期间参与了多个科研项目，尤其是在 SAR 图像分类与变化检测方向积累了丰富经验。
+
+      ## 李四
+      ![李四的照片](/images/ 1.jpg)
+      **毕业年份**: 2022  
+      **职位**: 毕业后进入某科技公司，从事人工智能相关工作。  
+      李四曾获优秀研究生奖学金，并参与多个项目的研发工作。
+
+      ## 张三
+      ![张三的照片](/images/ 1.jpg)
+      **毕业年份**: 2022  
+      **职位**: 毕业后进入高校从事教学工作。  
+      张三专注于人工智能与机器学习领域，并致力于培养下一代AI人才。
+
+    design:
+    view: article-grid  # 使用网格布局
+    columns: 4          # 每行显示4个成员
+    spacing:
+      padding: ["2rem", "2rem", "2rem", "2rem"]
 
 
   - block: markdown
     content:
-      title: 团队成员
+      title: 毕业生团队
       text: |
         ## 王五
         **毕业年份**: 2022  
