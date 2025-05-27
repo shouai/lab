@@ -23,7 +23,7 @@ sections:
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
+          # Add your image background to `assets/media/`.这是主页背景图
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
@@ -33,7 +33,7 @@ sections:
   - block: markdown
     content:
       title: '📚 研究领域'
-      subtitle: ''
+      subtitle: ''  #副标题，现在为空
       text: |-
         主要研究领域人工智能海洋学、遥感图像智能信息提取、深度学习，具体而言，包括但不仅限于：
         (1) 基于深度学习的海洋遥感图像智能分析，应用于海岸带水淹监测与预警、潮间带环境监测以及船舶探测和识别。
