@@ -34,7 +34,9 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    logo: "assets/icon.png"
+    logo:
+    image: "/assets/logo.png"
+
 
 # Site footer
 footer:
