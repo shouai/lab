@@ -18,7 +18,7 @@ sections:
       title: 教师团队
       filters:
         folders:
-          - team/teachers
+          - team
     design:
       view: article-grid
       fill_image: true
@@ -33,7 +33,7 @@ sections:
       title: 学生团队
       filters:
         folders:
-          - team/students
+          - team
     design:
       view: article-grid
       fill_image: true
@@ -48,7 +48,7 @@ sections:
       title: 毕业学生
       filters:
         folders:
-          - team/graduates
+          - team
     design:
       view: article-grid
       fill_image: false
