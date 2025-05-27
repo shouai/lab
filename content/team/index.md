@@ -1,5 +1,5 @@
 ---
-title: People
+title: 团队
 date: 2022-10-24
 
 type: landing
@@ -17,7 +17,7 @@ sections:
       #根据用户的姓（last_name）排序团队成员。
       sort_by: Params.last_name
       sort_ascending: true
-      
+
     design:
       show_interests: false
       show_role: true
