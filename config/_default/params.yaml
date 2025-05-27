@@ -36,6 +36,7 @@ header:
     show_theme_chooser: true
     logo:
     image: icon.png
+    text: "LAB"
 
 
 # Site footer

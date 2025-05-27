@@ -9,22 +9,22 @@ main:
     weight: 10
   - name: 论文
     url: /#papers
-    weight: 11
+    weight: 20
   - name: 新闻
     url: /#news
-    weight: 15
+    weight: 30
   - name: 经验
     url: experience/
-    weight: 20
+    weight: 40
   - name: 项目
     url: projects/
-    weight: 25
+    weight: 50
   - name: 演讲
     url: talks/
-    weight: 30
+    weight: 60
   - name: 团队  
     url: team/
-    weight: 35
+    weight: 70
 
 
 
