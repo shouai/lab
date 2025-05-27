@@ -4,7 +4,7 @@ role: 教授
 type: person
 date: 2024-05-20
 image:
-  filename: "uploads/1.jpg"
+  filename: uploads/1.jpg
  # 头像图片路径（放在 static/uploads 目录下）
 summary: 人工智能与海洋遥感专家，主持多项国家级课题。
 ---
