@@ -39,7 +39,7 @@ sections:
         (1) 基于深度学习的海洋遥感图像智能分析，应用于海岸带水淹监测与预警、潮间带环境监测以及船舶探测和识别。
         (2) 基于深度学习的渔场预报、渔业资源预测及渔汛预报。
         (3) 基于国产自主边缘计算芯片的人工智能模型移植、推理优化和迁移学习。
-        
+
         有志于从事人工智能海洋学、遥感图像智能信息提取、深度学习等领域研究的同学，包括但不限于：攻读硕士学位、毕业设计、大学生创新项目等，可以通过邮箱bliu@shou.edu.cn先联系我。希望你主动、自我激励、喜欢钻研并且积极进取，我们一起向前进步。 😃
     design:
       columns: '1'
@@ -55,17 +55,18 @@ sections:
     design:
       view: article-grid
       columns: 2  #将内容分为两列
+      spacing:
+        padding: [0, 0, 0, 0]
 
-  - block: collection
+  - block: markdown
     content:
-      title: 最近出版物
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+      text: |-
+        <p><a href="papers">查看所有论文 →</a></p>
     design:
-      view: citation
+      columns: '1'
+      spacing:
+        padding: [0, 0, 6rem, 0]
+
 
   - block: collection
     id: news

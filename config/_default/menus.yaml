@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: 论文
-    url: /#papers
+    url: /papers
     weight: 20
   - name: 新闻
     url: /#news
@@ -22,7 +22,7 @@ main:
   - name: 演讲
     url: talks/
     weight: 60
-  - name: 团队  
+  - name: 团队
     url: team/
     weight: 70
 
