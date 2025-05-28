@@ -30,6 +30,19 @@
       {{ end }}
     </div>
   </div>
+  {{ end }} {{ if .Params.graduates }}
+  <div class="mb-16">
+    <h2 class="text-2xl font-semibold text-center mb-8">毕业去向</h2>
+
+    <div class="grid grid-cols-1 gap-4">
+      {{ range .Params.graduates }}
+      <div class="graduate-item bg-white rounded-lg shadow-md p-4 flex flex-col">
+        <h3 class="text-lg font-medium mb-2">{{ .title }}</h3>
+        <p class="text-gray-600">{{ .content }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
   {{ end }}
 </div>
 {{- end -}}
