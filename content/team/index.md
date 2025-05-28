@@ -86,10 +86,16 @@ team:
         link: https://example.com/liudong
 
 graduates:
-  - title: 丽丽 22级信息学院xxx专业 毕业去向:信息公司
+  - name: 丽丽
+    major: 22级信息学院xxx专业
+    destination: 信息公司
     content: xxx大学2022级毕业生，拥有丰富实习经验，参与过XX项目，具备良好沟通协作与问题解决能力，渴望在新起点开启职业新征程。
-  - title: 林小凡 23级机器人控制专业 毕业去向:科技公司
+  - name: 林小凡
+    major: 23级机器人控制专业
+    destination: 科技公司
     content: 硕士毕业于本校机器人控制专业，擅长ROS、Python和C++编程，现就职于科技公司从事机器人开发工作。
-  - title: 吴佳 22级知识图谱专业 毕业去向:字节跳动
+  - name: 吴佳
+    major: 22级知识图谱专业
+    destination: 字节跳动
     content: 硕士毕业于本校知识图谱专业，曾在字节跳动实习，现正式加入字节跳动搜索部门从事问答系统研发。
 ---
