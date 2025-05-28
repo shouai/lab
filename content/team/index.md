@@ -68,7 +68,6 @@ team:
           **发表论文**：
           - Chen et al. "Dynamic Graph Learning for Recommendation", SIGIR 2023
           - Chen et al. "Knowledge-aware Multi-modal Recommendation", KDD 2022
-        link: https://example.com/chenxiaoyu
       - name: 刘东
         image: team/images/test.jpg
         bio: |
@@ -83,19 +82,17 @@ team:
 
           **获奖情况**：
           国家奖学金（2022）、优秀学生干部（2021）
-        link: https://example.com/liudong
 
-  - category: 毕业去向
+  - category: 毕业学生
     people:
       - name: 丽丽
         bio: |
-          **研究方向**：计算机视觉、医学图像分析
+          **毕业去向**：信息公司
 
           xxx大学2022级毕业生，拥有丰富实习经验，参与过XX项目，具备良好沟通协作与问题解决能力，渴望在新起点开启职业新征程。
-        link: https://example.com/zhaomingming
       - name: 林小凡
         bio: |
-          **研究方向**：机器人控制、强化学习
+          **毕业去向**：机器人控制、强化学习
 
           2023级硕士生，师从张伟教授。本科毕业于哈尔滨工业大学。
 
@@ -106,10 +103,9 @@ team:
 
           **技能**：
           机器人操作系统(ROS)、Python、C++、MATLAB
-        link: https://example.com/linxiaofan
       - name: 吴佳
         bio: |
-          **研究方向**：知识图谱、问答系统
+          **毕业去向**：知识图谱、问答系统
 
           2022级硕士生，师从李芳副教授。本科毕业于南京大学。
 
@@ -119,5 +115,4 @@ team:
           - 领域适应问答
 
           **实习经历**：字节跳动-搜索部门（2023.6-2023.9）
-        link: https://example.com/wujia
 ---
